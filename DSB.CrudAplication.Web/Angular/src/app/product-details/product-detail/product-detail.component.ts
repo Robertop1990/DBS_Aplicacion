@@ -10,7 +10,7 @@ import { ToastrService } from 'ngx-toastr';
 })
 export class ProductDetailComponent implements OnInit {
 
-  constructor(private service:ProductDetailService,private toastr: ToastrService) { }
+  constructor(public service:ProductDetailService,private toastr: ToastrService) { }
 
   ngOnInit() {
     this.limpiarForm();
@@ -27,6 +27,7 @@ export class ProductDetailComponent implements OnInit {
   }
 
   onSubmit(form: NgForm) {
+    debugger;
     if (this.service.formData.Id == 0)
       this.insertRecord(form);
     else
@@ -51,7 +52,7 @@ export class ProductDetailComponent implements OnInit {
     this.service.putProductDetail().subscribe(
       res => {
         this.limpiarForm(form);
-        this.toastr.info('Envio Satisfactorio', 'Producto');
+        this.toastr.info('Actualizacion Satisfactorio', 'Producto');
         this.service.refreshList();
       },
       err => {

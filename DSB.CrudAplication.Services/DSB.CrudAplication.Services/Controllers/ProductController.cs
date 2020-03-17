@@ -15,19 +15,12 @@ namespace DSB.CrudAplication.Services.Controllers
     public class ProductController : ControllerBase
     {
         private readonly CrudAplicationContext _context;
-        private readonly IDataRepository<Product> _repository;
-
-        public ProductController(CrudAplicationContext context, IDataRepository<Product> repository)
-        {
-            _context = context;
-            _repository = repository;
-        }
-
+        public ProductController(CrudAplicationContext context, IDataRepository<Product> repository) => _context = context;
+     
         [HttpGet]
-        public IEnumerable<Product> GetProducts()
-
+        public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
         {
-            return _context.Products.OrderByDescending(x => x.Id);
+            return await _context.Products.ToListAsync();
         }
 
         [HttpGet("{id}")]
@@ -40,7 +33,7 @@ namespace DSB.CrudAplication.Services.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutProduct(int id, Product product)
+        public async Task<IActionResult> PutProduct(int id, [FromBody] Product product)
         {
             if (id != product.Id) return BadRequest();
 
@@ -60,7 +53,7 @@ namespace DSB.CrudAplication.Services.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Product>> PostProduct(Product product)
+        public async Task<ActionResult<Product>> PostProduct([FromBody] Product product)
         {
             _context.Products.Add(product);
             await _context.SaveChangesAsync();

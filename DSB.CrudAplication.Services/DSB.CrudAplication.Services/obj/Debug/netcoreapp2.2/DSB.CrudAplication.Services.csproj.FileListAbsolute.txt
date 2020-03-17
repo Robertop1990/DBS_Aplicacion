@@ -16,7 +16,6 @@ D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.
 D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.runtimeconfig.dev.json
 D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.dll
 D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.pdb
-D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.csprojAssemblyReference.cache
 D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.csproj.CoreCompileInputs.cache
 D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.RazorAssemblyInfo.cache
 D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.RazorAssemblyInfo.cs

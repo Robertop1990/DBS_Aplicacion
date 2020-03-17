@@ -10,11 +10,13 @@ import { Product } from 'src/app/shared/product-detail.model';
 })
 export class ProductDetailListComponent implements OnInit {
 
-  constructor(private service: ProductDetailService,
+  constructor(public service: ProductDetailService,
     private toastr: ToastrService) { }
 
   ngOnInit() {
+    debugger;
     this.service.refreshList();
+    console.log(this.service);
   }
 
   populateForm(pd: Product) {
@@ -22,11 +24,12 @@ export class ProductDetailListComponent implements OnInit {
   }
 
   onDelete(Id) {
-    if (confirm('Are you sure to delete this record ?')) {
+    debugger;
+    if (confirm('¿Esta seguro de eliminar el item?')) {
       this.service.deleteProductDetail(Id)
         .subscribe(res => {
           this.service.refreshList();
-          this.toastr.warning('Deleted successfully', 'Payment Detail Register');
+          this.toastr.warning('Eliminacion Satisfactoria', 'Producto');
         },
           err => {
             console.log(err);
