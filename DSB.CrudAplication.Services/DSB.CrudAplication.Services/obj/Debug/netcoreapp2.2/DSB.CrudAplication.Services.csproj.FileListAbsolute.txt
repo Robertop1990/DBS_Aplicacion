@@ -11,3 +11,17 @@ D:\DBS_CrudApplication\DBS_CrudApplication\DSB.CrudAplication.Services\obj\Debug
 D:\DBS_CrudApplication\DBS_CrudApplication\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.pdb
 D:\DBS_CrudApplication\DBS_CrudApplication\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.dll
 D:\DBS_CrudApplication\DBS_CrudApplication\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.pdb
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.deps.json
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.runtimeconfig.json
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.runtimeconfig.dev.json
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.dll
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\bin\Debug\netcoreapp2.2\DSB.CrudAplication.Services.pdb
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.csprojAssemblyReference.cache
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.csproj.CoreCompileInputs.cache
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.RazorAssemblyInfo.cache
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.RazorAssemblyInfo.cs
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.AssemblyInfoInputs.cache
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.AssemblyInfo.cs
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.RazorTargetAssemblyInfo.cache
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.dll
+D:\DBS_Aplicacion\DBS_Aplicacion\DSB.CrudAplication.Services\DSB.CrudAplication.Services\obj\Debug\netcoreapp2.2\DSB.CrudAplication.Services.pdb

@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSB.CrudAplication.Services", "DSB.CrudAplication.Services\DSB.CrudAplication.Services.csproj", "{656F225B-E2B5-4363-9BF0-1F6BADDDF00B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSB.CrudAplication.Web", "..\DSB.CrudAplication.Web\DSB.CrudAplication.Web.csproj", "{808B3278-403F-4B75-B670-4434B8354F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSB.CrudAplication.Services", "DSB.CrudAplication.Services\DSB.CrudAplication.Services.csproj", "{656F225B-E2B5-4363-9BF0-1F6BADDDF00B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{656F225B-E2B5-4363-9BF0-1F6BADDDF00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{656F225B-E2B5-4363-9BF0-1F6BADDDF00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656F225B-E2B5-4363-9BF0-1F6BADDDF00B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{808B3278-403F-4B75-B670-4434B8354F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{808B3278-403F-4B75-B670-4434B8354F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{808B3278-403F-4B75-B670-4434B8354F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{808B3278-403F-4B75-B670-4434B8354F9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

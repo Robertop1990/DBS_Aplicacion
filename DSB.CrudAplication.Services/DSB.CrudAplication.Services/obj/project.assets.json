@@ -13010,11 +13010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DBS_CrudApplication\\DBS_CrudApplication\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services.csproj",
+      "projectUniqueName": "D:\\DBS_Aplicacion\\DBS_Aplicacion\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services.csproj",
       "projectName": "DSB.CrudAplication.Services",
-      "projectPath": "D:\\DBS_CrudApplication\\DBS_CrudApplication\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services.csproj",
+      "projectPath": "D:\\DBS_Aplicacion\\DBS_Aplicacion\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "D:\\DBS_CrudApplication\\DBS_CrudApplication\\DSB.CrudAplication.Services\\obj\\",
+      "outputPath": "D:\\DBS_Aplicacion\\DBS_Aplicacion\\DSB.CrudAplication.Services\\DSB.CrudAplication.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
